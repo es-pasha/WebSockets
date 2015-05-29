@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\WebSockets\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\admin\Documents\WebSockets\WebApplication2\bin\WebApplication2.dll
+C:\Users\admin\Documents\WebSockets\WebApplication2\bin\WebApplication2.pdb
+C:\Users\admin\Documents\WebSockets\WebApplication2\bin\Microsoft.WebSockets.dll
+C:\Users\admin\Documents\WebSockets\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\admin\Documents\WebSockets\WebApplication2\obj\Debug\WebApplication2.pdb
